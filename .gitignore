@@ -1,0 +1,17 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Data
+assets/
+*.json
+
+# Compilated
+*.pyc
+
+# Scripts
+*.bat
+*.sh
+
+# Dependencies
+venv/

@@ -1,0 +1,4 @@
+gspread==5.7.2
+yandexcloud==0.192.0
+ydb==2.10.0
+pyTelegramBotAPI
